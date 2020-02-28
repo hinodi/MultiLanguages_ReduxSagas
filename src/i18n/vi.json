@@ -1,0 +1,12 @@
+{
+  "label": "Tiếng việt",
+  "common": {
+    "ok": "OK",
+    "cancel": "Huỷ",
+    "back": "Trở về",
+    "hello": "Xin Chào"
+  },
+  "settings": {
+    "language": "Ngôn ngữ"
+  }
+}
